@@ -2,3 +2,6 @@ This is line 1 of song
 This is line 2 of song
 Line 3 was added in Web GitHub
 Line 4 was added in Web GitHub
+
+These lines were added
+to understand the spartan interface
